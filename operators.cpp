@@ -56,7 +56,4 @@ int main() {
     std::cout << "Value of a after dividing by 2: " << a << "\n";
     a %= 3;
     std::cout << "Value of a after modulus by 3: " << a << "\n";
-
-
-    return 0;
 }
